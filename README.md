@@ -1,7 +1,7 @@
 # APCS-S1-Portfolio
 This is where I am storing my python projects from Sem1. 
 
--- Project #1 : Food Generator Game (foodcodegame.py)
+-- Project #1 : Food Generator Game (foodcodegame final.py)
 This program is a generator game, where a user will answer various questions and be given a suggested food to eat based on their answers. 
 #Key Takeaways:
 This project taught me more about Nested IF statements, and I was able to successfully create a project using them. 
@@ -17,7 +17,7 @@ also choose "Endless Mode" (loop), where they are able to practice until they wo
 #Key Takeaways: 
 In this project, I utilized global variables, "while" loops, string concatenations, and more. This project has many intricate components, and I was able to run them smoothly together. 
 
---Project #4 : Pokemon App (pokemonapp.py)
+--Project #4 : Pokemon App (pokemonapp final.py)
 This program is a "Pokemon" game, a simulator where a user is tasked with training a Charmander. They can choose to train, participate in gym battles, or rest and display the Pokemon's info along with it's picture. The goal is 
 to evolve the Charmander up to a Charizard through leveling up, and keep it happy. 
 #Key Takeaways:
